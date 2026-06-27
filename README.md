@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hadise Golineman 👋
 
-<!--
-**hadisgolineman/hadisgolineman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+🔐 Aspiring Cybersecurity Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- C++
+- Python
+- Networking
+- Linux
+- Cybersecurity
+
+## 🎯 Goals
+
+- Build practical cybersecurity projects
+- Contribute to open-source projects
+- Pursue a Master's degree abroad
+- Become a Security Engineer
+
+## 📫 Connect with me
+
+- GitHub: github.com/hadisgolineman
+- LinkedIn: linkedin.com/in/hadisegolineman
